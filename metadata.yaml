@@ -1,0 +1,33 @@
+_repo: L-autre-Tartuffe-ou-La-m-re-coupable_34841
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beaumarchais, Pierre Augustin Caron de
+    aliases:
+    - Beaumarchais, M. de (Pierre Augustin Caron)
+    - Beaumarchais
+    - De Beaumarchais, Pierre Augustin Caron
+    - Caron de Beaumarchais, Pierre Augustin
+    birthdate: 1732
+    deathdate: 1799
+    gutenberg_agent_id: '7962'
+    url: http://www.gutenberg.org/2009/agents/7962
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Beaumarchais
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2011-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34841'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 18th century'
+- !lcc 'PQ'
+title: L'autre Tartuffe, ou La mère coupable
+url: http://www.gutenberg.org/ebooks/34841
